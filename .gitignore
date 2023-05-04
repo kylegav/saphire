@@ -2,11 +2,5 @@
 /node_modules/
 
 
-!/=
-!/\[base
-!/\[internal\]
-!/\[test
-/mocha
-!/node-docker@1.0.0
-!/transferring
+
 
