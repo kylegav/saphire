@@ -28,6 +28,6 @@ jobs:
           context: .
           file: ./dockerfile
           push: true
-          tags: kylegav/app:latest
+          tags: kylegav/saphire:latest
 
 
